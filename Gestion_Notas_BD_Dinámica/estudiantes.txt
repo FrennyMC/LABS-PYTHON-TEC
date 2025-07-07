@@ -1,0 +1,2 @@
+Carlos,González,Jiménez,Masculino
+Lucía,Ramírez,Solano,Femenino
